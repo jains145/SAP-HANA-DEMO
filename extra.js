@@ -1,6 +1,7 @@
 <html>
   <body>
   <div>
-  <text></text></div>
+  <text>
+  <label</label></text></div>
   </body>
 </html>
